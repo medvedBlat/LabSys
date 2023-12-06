@@ -1,0 +1,2 @@
+E:\TestForLabSystems2\LabSys2\LabSys2\x64\Release\LabSys2.vcxproj.AssemblyReference.cache
+E:\TestForLabSystems2\LabSys2\LabSys2\x64\Release\LabSys2.vcxproj.SuggestedBindingRedirects.cache

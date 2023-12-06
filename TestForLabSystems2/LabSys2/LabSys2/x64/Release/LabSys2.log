@@ -1,0 +1,8 @@
+﻿  List.cpp
+E:\TestForLabSystems2\LabSys2\LabSys2\List.cpp(15,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+E:\TestForLabSystems2\LabSys2\LabSys2\List.cpp(17,5): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  main.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Создание кода...
+  List.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  LabSys2.vcxproj -> E:\TestForLabSystems2\LabSys2\x64\Release\LabSys2.exe
